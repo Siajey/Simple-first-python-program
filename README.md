@@ -1,9 +1,9 @@
 # Find prime numbers with python
-This is a **bold** statement.
-- Feature 1
-- Feature 2
-- Feature 3
-```javascript
-console.log("Hello GitHub");
+This is a **simple program** for practicing logic in python .
+- 5 version of how to the same thing in this program each time better adn  different functional
+- comments for every one of them
+```python
+print("Hello from Python")
 ```
-[Visit my portfolio](https://example.com)
+
+[solve the problem in your way]([https://example.com](https://projecteuler.net/))
